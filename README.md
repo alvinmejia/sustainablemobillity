@@ -6,7 +6,7 @@ The site is hosted via [GitHub Pages](https://pages.github.com/) and maintained 
 
 ---
 
-## 🖌️ Credits
+## 🖌️ Credits 
 
 - **Template**: [Editorial](https://html5up.net/editorial) by [HTML5 UP](https://html5up.net), licensed under [Creative Commons Attribution 3.0](https://creativecommons.org/licenses/by/3.0/)
 - **Customization**: Alvin Mejia
